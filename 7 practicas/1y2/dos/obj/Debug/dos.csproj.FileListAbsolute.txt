@@ -1,0 +1,11 @@
+C:\Users\kapat\dioris_09\1y2\dos\bin\Debug\dos.exe.config
+C:\Users\kapat\dioris_09\1y2\dos\bin\Debug\dos.exe
+C:\Users\kapat\dioris_09\1y2\dos\bin\Debug\dos.pdb
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.csproj.AssemblyReference.cache
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.Form1.resources
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.Properties.Resources.resources
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.csproj.GenerateResource.cache
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.csproj.CoreCompileInputs.cache
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.exe
+C:\Users\kapat\dioris_09\1y2\dos\obj\Debug\dos.pdb

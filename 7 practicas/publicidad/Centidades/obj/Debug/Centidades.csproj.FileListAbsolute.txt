@@ -1,0 +1,12 @@
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\bin\Debug\Centidades.dll
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\bin\Debug\Centidades.pdb
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\obj\Debug\Centidades.csproj.AssemblyReference.cache
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\obj\Debug\Centidades.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\obj\Debug\Centidades.dll
+C:\Users\Rosa\Desktop\PublicidadXemisora\Centidades\obj\Debug\Centidades.pdb
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\bin\Debug\Centidades.dll
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\bin\Debug\Centidades.pdb
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\obj\Debug\Centidades.csproj.AssemblyReference.cache
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\obj\Debug\Centidades.csproj.CoreCompileInputs.cache
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\obj\Debug\Centidades.dll
+C:\Users\kapat\diori_9\PublicidadXemisora\Centidades\obj\Debug\Centidades.pdb

@@ -1,0 +1,24 @@
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form1.resources
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form2.resources
+C:\Users\YOHAMYS\Desktop\Programacion\Proyectos\Practicas de Dioris\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form4.resources
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form4.resources
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\kapat\diori_9\Practicas jueves\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
